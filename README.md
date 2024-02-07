@@ -81,7 +81,7 @@ I’m a self taught web developer since 2020, currently building personal projec
   
 </div>
 <br>
-/*  
+<!--
 ## Feel free to get in touch with me:
  <div>
   <a href="https://instagram.com/devjota" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -89,3 +89,4 @@ I’m a self taught web developer since 2020, currently building personal projec
   <a href="https://www.linkedin.com/in/jorge-eduardo-alves-094b4331/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 */
+-->
