@@ -7,7 +7,7 @@ My curiosity leads me towards the fascinating and intricate worlds of embedded s
 This profile serves as a window into my ongoing quest for mastery. Feel free to browse my projects, connect with me, and embark on this learning journey alongside me!
 
 
-:rocket: I’m currently studying at Ecole 42
+🚀 I’m currently studying at Ecole 42
 
 <br>
 
