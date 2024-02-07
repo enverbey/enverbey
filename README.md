@@ -4,7 +4,7 @@ Greetings! I'm Enver, a software engineering student in Istanbul, deeply passion
 
 My curiosity leads me towards the fascinating and intricate worlds of embedded systems and cybersecurity. Possessing proficiency in C, C++, and Java, I'm committed to delving deeper into these captivating domains and acquiring specialized knowledge. My academic journey at Ecole 42 further complements my dedication by providing rigorous training in software development best practices.
 
-🚀 This profile serves as a window into my ongoing quest for mastery.
+🚀 This profile serves as a window into my ongoing quest for mastery
 🚀 Feel free to browse my projects, connect with me and embark on this learning journey alongside me!
 
 
