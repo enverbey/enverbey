@@ -68,7 +68,7 @@ This profile serves as a window into my ongoing quest for mastery. Feel free to 
 
   <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/vs_SVG.svg" /></a>
   <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/linux_SVG.svg" /></a>
-  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/sublime2.png" /></a>
+  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="30" src="https://github.com/enverbey/42_projects_png/blob/master/sublime2.png" /></a>
   <img  align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img  align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
