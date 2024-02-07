@@ -14,14 +14,6 @@ This profile serves as a window into my ongoing quest for mastery. Feel free to 
 ## Studying Software Engineering at 42SP.
 
 
-<!-- ## My current stats -->
-
-<!-- <div>
-  <a href="https://github.com/enverbey">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&langs_count=16&theme=dracula"/>
-  <br>
-</div> -->
 
 ## 42SP Fundamentals Curriculum:
   
@@ -69,8 +61,6 @@ This profile serves as a window into my ongoing quest for mastery. Feel free to 
   <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/vs_SVG.svg" /></a>
   <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/linux_SVG.svg" /></a>
   <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="30" src="https://github.com/enverbey/42_projects_png/blob/master/sublime2.png" /></a>
-  <img  align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img  align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
 </div>
 <br>
