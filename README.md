@@ -22,7 +22,7 @@ I’m a self taught web developer since 2020, currently building personal projec
 
 ## 42SP Fundamentals Curriculum:
   
-## Fase 1:
+## Case 1:
 
 <div style="display: inline_block"><br>
    
@@ -35,7 +35,7 @@ I’m a self taught web developer since 2020, currently building personal projec
 
 </div>
 
-  ## Fase 2:
+  ## Case 2:
   
 <div style="display: inline_block"><br>
  
@@ -47,7 +47,7 @@ I’m a self taught web developer since 2020, currently building personal projec
   
 </div> 
 
-  ## Fase 3:
+  ## Case 3:
   
 <div style="display: inline_block"><br>
  
