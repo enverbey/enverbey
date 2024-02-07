@@ -1,4 +1,4 @@
-### Hi there, jorge Alves here 👋<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="jorge Alves">
+### Hi there, jorge Alves here 👋
 
 Sou desenvolvedor web autodidata desde 2020, atualmente construindo projetos pessoais com foco em qualidade de código e experiência do usuário.  Para facilitar a vida das pessoas ao meu redor e também a minha, venho resolvendo problemas do dia a dia criando aplicações web valiosas e escaláveis.
 
