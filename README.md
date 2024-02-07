@@ -26,7 +26,7 @@ I’m a self taught web developer since 2020, currently building personal projec
 
 <div style="display: inline_block"><br>
    
-  <a href="https://github.com/enverbey"><img src="https://github.com/enverbey/42_projects_png/blob/master/libftn.png" alt="42 Badge" height="100" width="100"></>
+  <a href="https://github.com/enverbey"><img src="https://github.com/enverbey/42_projects_png/blob/master/libftn.png" alt="42 Badge" height="100" width="100"/>
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/born2beroote.png" />
