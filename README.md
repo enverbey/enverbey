@@ -58,6 +58,7 @@ This profile serves as a window into my ongoing quest for mastery. Feel free to 
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Jorge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/cpp.png" /> </a>
   <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/java.png" /> </a>
   
 </div>
