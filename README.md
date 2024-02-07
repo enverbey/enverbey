@@ -28,8 +28,8 @@ I’m a self taught web developer since 2020, currently building personal projec
    
   <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/libftn.png" /> </a>
   <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/get_next_linen.png" /> </a>
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" />
-  <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/born2beroote.png" />
+  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/ft_printfn.png" /> </a>
+  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/born2berootn.png" /> </a>
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" />
   <img align="center" alt="Jorge-C" height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" />
 </div>
