@@ -13,9 +13,6 @@ This profile serves as a window into my ongoing quest for mastery. Feel free to 
 
 ## Studying Software Engineering at 42SP.
 
-
-
-
 ## 42SP Fundamentals Curriculum:
   
 ## Case 1:
