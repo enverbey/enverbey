@@ -12,7 +12,7 @@ My curiosity leads me towards the fascinating and intricate worlds of embedded s
 
 ## Studying Software Engineering at 42SP.
 
-## 42SP Fundamentals Curriculum:
+## 42 Fundamentals Curriculum:
   
 ## Case 1:
 
