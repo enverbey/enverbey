@@ -13,7 +13,6 @@ This profile serves as a window into my ongoing quest for mastery. Feel free to 
 
 ## Studying Software Engineering at 42SP.
 
-<!-- ## My current stats -->
 
 <!-- ## My current stats -->
 
