@@ -15,12 +15,15 @@ This profile serves as a window into my ongoing quest for mastery. Feel free to 
 
 <!-- ## My current stats -->
 
+<!-- ## My current stats -->
+
 <!-- <div>
-  <a href="https://github.com/enverbey">
+  <a href="https://github.com/jorgeedualves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeedualves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeedualves&layout=compact&langs_count=16&theme=dracula"/>
   <br>
 </div> -->
+
 
 ## 42SP Fundamentals Curriculum:
   
