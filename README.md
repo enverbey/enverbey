@@ -35,7 +35,7 @@ My curiosity leads me towards the fascinating and intricate worlds of embedded s
  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/minishelln.png" /> </a>
  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/philosophersn.png" /> </a>
  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/netpracticen.png" /> </a>
- <a href="https://github.com/enverbey/yilmaz_libft"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/cub3dn.png" /> </a>
+ <a href="https://github.com/enverbey/yilmaz_cub3D"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/cub3dn.png" /> </a>
 
   
 </div> 
