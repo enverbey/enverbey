@@ -11,35 +11,7 @@ My curiosity leads me towards the fascinating and intricate worlds of embedded s
 <br>
 
 ## Studying Software Engineering at 42.
-
-## Ecole 42 - Fundamentals Curriculum:
-  
-## Case 1:
-
-<div style="display: inline_block"><br>
-   
-  <a href="https://github.com/enverbey/yilmaz_libft"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/libftn.png" /> </a>
-  <a href="https://github.com/enverbey/yilmaz_libft/tree/main/src/get_next_line"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/get_next_linen.png" /> </a>
-  <a href="https://github.com/enverbey/yilmaz_libft/tree/main/src/ft_printf"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/ft_printfn.png" /> </a>
-  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/born2berootn.png" /> </a>
-  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/so_longn.png" /> </a>
-  <a href="https://github.com/enverbey/yilmaz_minitalk"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/minitalkn.png" /> </a>
-
-</div>
-
-  ## Case 2:
-  
-<div style="display: inline_block"><br>
-
- <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/push_swapn.png" /> </a>
- <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/minishelln.png" /> </a>
- <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/philosophersn.png" /> </a>
- <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/netpracticen.png" /> </a>
- <a href="https://github.com/enverbey/yilmaz_cub3D"><img align="center" alt="Jorge-C" height="100" width="100" src="https://github.com/enverbey/42_projects_png/blob/master/cub3dn.png" /> </a>
-
-  
-</div> 
-
+## Student a University in Istanbul.
 # Language learned:
 
 <div style="display: inline_block"><br>
