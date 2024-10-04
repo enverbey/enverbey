@@ -33,4 +33,5 @@ As an Ecole 42 student, I have completed some challenging projects that test not
 
 ## 📫 **Get in Touch**
 If you want to chat about coding or share ideas, feel free to reach out! <br>
-📧 Email: [enverbey1534@gmail.com](mailto:enverbey1534@gmail.com)
+📧 Email: [enverbey1534@gmail.com](mailto:enverbey1534@gmail.com) <br>
+💬 Discord: enveryilmaz
