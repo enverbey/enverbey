@@ -1,25 +1,36 @@
-### Hi there, Enver Yilmaz here 👋
+# 👋 **Hello, I'm Enver!**
 
-Greetings! I'm Enver, a software engineering student in Istanbul, deeply passionate about crafting innovative and impactful solutions. With a steadfast focus on honing my skills, I actively engage in personal projects that challenge me and refine my understanding of code quality and user experience.
+I’m a student at **Ecole 42** and a university in Istanbul, passionate about coding and constantly seeking to learn and improve my skills. I enjoy taking on challenges and continuously improving my skills, particularly in C and C++ programming . Here, you’ll find some of my personal projects, ranging from low-level programming to web development.
 
-My curiosity leads me towards the fascinating and intricate worlds of embedded systems and cybersecurity. Possessing proficiency in C, C++, and Java, I'm committed to delving deeper into these captivating domains and acquiring specialized knowledge. My academic journey at Ecole 42 further complements my dedication by providing rigorous training in software development best practices.
+*Imagine if there was only C programming language in the world, wouldn't it be great?*
 
-🚀 This profile serves as a window into my ongoing quest for mastery <br>
-🚀 Feel free to browse my projects, connect with me and embark on this learning journey alongside me!
+---
 
+## 🚀 **About Me**
+- 💻 I have strong expertise in **C** and **C++**, and I'm continuously honing my skills in **Java**, **JavaScript**, **HTML**, and **CSS**.
+- 📚 Learning new technologies and solving complex problems drive me every day.
+- 🛠 I enjoy working with **Sublime Text** as my primary editor for coding.
+- 🌱 Currently, I’m working on the final project of the **Ecole 42** core curriculum.
+- 🏃‍♂️ When I'm not coding, I love to go for walks or runs to clear my mind and recharge.
 
-<br>
+---
 
+## 💡 **Skills**
+- **Languages**:  
+  ![C](https://img.shields.io/badge/C-Prof-green) ![C++](https://img.shields.io/badge/C++-Prof-green)  
+  ![Java](https://img.shields.io/badge/Java-yellow) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)  
+  ![HTML](https://img.shields.io/badge/HTML-yellow) ![CSS](https://img.shields.io/badge/CSS-yellow)
   
+- **Tools**:  
+  ![Sublime Text](https://img.shields.io/badge/Sublime_Text-Editor-blue)
 
-<br>
+---
 
-<!---
-## Feel free to get in touch with me:
- <div>
-  <a href="https://instagram.com/devjota" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jorgeedualves84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jorge-eduardo-alves-094b4331/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-*/
---->
+## ✨ **Ecole 42 Experience**
+As an Ecole 42 student, I have completed some challenging projects that test not only my coding skills but also my problem-solving and collaboration abilities. I’m currently working on my final core curriculum project, which is pushing my limits and helping me grow as a developer.
+
+---
+
+## 📫 **Get in Touch**
+If you want to chat about coding or share ideas, feel free to reach out! <br>
+📧 Email: [enverbey1534@gmail.com](mailto:enverbey1534@gmail.com)
