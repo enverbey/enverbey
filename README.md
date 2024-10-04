@@ -7,11 +7,11 @@ I’m a student at **Ecole 42** and a university in Istanbul, passionate about c
 ---
 
 ## 🚀 **About Me**
-- 💻 I have strong expertise in **C** and **C++**, and I'm continuously honing my skills in **Java**, **JavaScript**, **HTML**, and **CSS**.
+- 💻 I have strong expertise in **C** and **C++**, and I'm also expanding my knowledge in Java, JavaScript, HTML, and CSS.
 - 📚 Learning new technologies and solving complex problems drive me every day.
 - 🛠 I enjoy working with **Sublime Text** as my primary editor for coding.
 - 🌱 Currently, I’m working on the final project of the **Ecole 42** core curriculum.
-- 🏃‍♂️ When I'm not coding, I love to go for walks or runs to clear my mind and recharge.
+- 🏃‍♂️ When I'm not coding, I enjoy going for walks or runs to clear my mind and recharge.
 
 ---
 
