@@ -29,7 +29,7 @@ I’m a student at **Ecole 42** and a university in Istanbul, passionate about c
 ## ✨ **Ecole 42 Experience**
 As an Ecole 42 student, I have completed some challenging projects that test not only my coding skills but also my problem-solving and collaboration abilities. I’m currently working on my final core curriculum project, which is pushing my limits and helping me grow as a developer.
 
-İf you are in 42 Piscine, you might want to look [here](https://github.com/enverbey/42Piscine). 
+İf you are in 42 Piscine, you might want to look [here](https://github.com/enverbey/42Piscine).  <br>
 My all common core projects in Ecole 42 is [here](https://github.com/enverbey/42CommonCore). Don't forget to check branches.
 
 ---
