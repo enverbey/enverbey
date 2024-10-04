@@ -1,8 +1,8 @@
 # 👋 **Hello, I'm Enver!**
 
-I’m a student at **Ecole 42** and a university in Istanbul, passionate about coding and constantly seeking to learn and improve my skills. I enjoy taking on challenges and continuously improving my skills, particularly in C and C++ programming . Here, you’ll find some of my personal projects, ranging from low-level programming to web development.
+I’m a student at **Ecole 42** and a university in Istanbul, passionate about coding and constantly seeking to learn and improve my skills. I enjoy taking on challenges and continuously improving my skills, particularly in C and C++ . Here, you’ll find some of my personal projects, ranging from low-level programming to web development.
 
-*Imagine if there was only C programming language in the world, wouldn't it be great?*
+*Imagine if the only programming language in the world was C. Wouldn't that be great?*
 
 ---
 
