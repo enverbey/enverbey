@@ -1,4 +1,4 @@
-### Hi there, Enver Yilmaz here 👋<img src="https://github.com/enverbey/42_projects_png/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="jorge Alves">
+### Hi there, Enver Yilmaz here 👋
 
 Greetings! I'm Enver, a software engineering student in Istanbul, deeply passionate about crafting innovative and impactful solutions. With a steadfast focus on honing my skills, I actively engage in personal projects that challenge me and refine my understanding of code quality and user experience.
 
@@ -10,28 +10,8 @@ My curiosity leads me towards the fascinating and intricate worlds of embedded s
 
 <br>
 
-## Studying Software Engineering at 42.
-## Student a University in Istanbul.
-# Language learned:
+  
 
-<div style="display: inline_block"><br>
-  
-  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/bash_SVG.svg" /></a>
-  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/C_svg.svg" /></a>
-  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/cpppp.svg" /></a>
-  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/java.png" /></a>
-  
-</div>
-  
-  # Work tools:
-
-<div style="display: inline_block"><br>
-
-  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/vs_SVG.svg" /></a>
-  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="40" src="https://github.com/enverbey/42_projects_png/blob/master/linux_SVG.svg" /></a>
-  <a href="https://github.com/enverbey"><img align="center" alt="Jorge-C" height="30" width="30" src="https://github.com/enverbey/42_projects_png/blob/master/sublime2.png" /></a>
-  
-</div>
 <br>
 
 <!---
