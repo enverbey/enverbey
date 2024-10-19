@@ -4,7 +4,7 @@ I’m a student at **Ecole 42** and a university in Istanbul, passionate about c
 
 *Imagine if the only programming language in the world was C. Wouldn't that be great?*
 
-📺 Check out my YouTube channel for software tutorials and content: [My YouTube Channel]([https://www.youtube.com/your-channel-link](https://www.youtube.com/@enverbeyTR))
+📺 Check out my YouTube channel for software tutorials and content: [My YouTube Channel](https://www.youtube.com/@enverbeyTR)
 
 ---
 
