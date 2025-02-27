@@ -19,13 +19,15 @@ I’m a student at **Ecole 42** and a university in Istanbul, passionate about c
 
 ## 💡 **Skills**
 - **Languages**:  
-  ![C](https://img.shields.io/badge/C-green) ![C++](https://img.shields.io/badge/C++-green)  
-  ![Java](https://img.shields.io/badge/Java-yellow) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)  
+  ![C](https://img.shields.io/badge/C-green) ![C++](https://img.shields.io/badge/C++-green)  <br>
+  ![JavaScript](https://img.shields.io/badge/JavaScript-green)  ![Node.js](https://img.shields.io/badge/Node.js-green) <br>
+  ![Java](https://img.shields.io/badge/Java-yellow) ![Django](https://img.shields.io/badge/Django-yellow) <br>
   ![HTML](https://img.shields.io/badge/HTML-yellow) ![CSS](https://img.shields.io/badge/CSS-yellow)
-  ![Node.js](https://img.shields.io/badge/Node.js-green)  
+    
   
 - **Tools**:  
-  ![Sublime Text](https://img.shields.io/badge/Sublime_Text-Editor-blue)
+  ![Sublime Text](https://img.shields.io/badge/Sublime_Text-Editor-blue) <br>
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-Editor-blue)
 
 ---
 
