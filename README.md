@@ -1,6 +1,6 @@
 # 👋 **Hello, I'm Enver!**
 
-I’m a student at **Ecole 42** and a university in Istanbul, passionate about coding and constantly seeking to learn and improve my skills. I enjoy taking on challenges and continuously improving my skills, particularly in C and C++ . Here, you’ll find some of my personal projects, ranging from low-level programming to web development.
+I’m a student at **Ecole 42** (specialization level) and a senior at **Maltepe University** in Istanbul. I currently work as a **Software Engineer at GoldenEye Solutions**.
 
 *Imagine if the only programming language in the world was C. Wouldn't that be great?*
 
@@ -9,37 +9,41 @@ I’m a student at **Ecole 42** and a university in Istanbul, passionate about c
 ---
 
 ## 🚀 **About Me**
-- 💻 I have strong expertise in **C** and **C++**, and I'm also expanding my knowledge in Java, JavaScript, HTML, and CSS.
-- 📚 Learning new technologies and solving complex problems drive me every day.
-- 🛠 I enjoy working with **Sublime Text** as my primary editor for coding.
-- 🌱 I’m currently working as an embedded software developer at a company.
-- 🏃‍♂️ When I'm not coding, I enjoy going for walks or runs to clear my mind and recharge.
+- 💻 My strongest skills are in **C** and **C++**, but I also develop in **C#**, **Java**, **JavaScript**, and recently **React Native**.
+- 🎯 I'm currently working as a **software engineer** at GoldenEye Solutions.
+- 🧠 I'm in the **specialization curriculum** at Ecole 42 and completing my **final year at Maltepe University**.
+- 🌱 In my free time, I’m focusing on learning **React Native** and building mobile apps.
+- 🛠 I enjoy working with **Sublime Text** and **Visual Studio Code** as my main editors.
+- 🏃‍♂️ Outside of programming, I enjoy going for a run or hitting the gym.
 
 ---
 
 ## 💡 **Skills**
 - **Languages**:  
-  ![C](https://img.shields.io/badge/C-green) ![C++](https://img.shields.io/badge/C++-green)  <br>
+  ![C](https://img.shields.io/badge/C-green) ![C++](https://img.shields.io/badge/C++-green) ![C#](https://img.shields.io/badge/C%23-green) <br>
   ![JavaScript](https://img.shields.io/badge/JavaScript-green)  ![Node.js](https://img.shields.io/badge/Node.js-green) <br>
   ![Java](https://img.shields.io/badge/Java-yellow) ![Django](https://img.shields.io/badge/Django-yellow) <br>
-  ![HTML](https://img.shields.io/badge/HTML-yellow) ![CSS](https://img.shields.io/badge/CSS-yellow)
+  ![React Native](https://img.shields.io/badge/React_Native-blue)
     
-  
 - **Tools**:  
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-IDE-blue) <br>
   ![Sublime Text](https://img.shields.io/badge/Sublime_Text-Editor-blue) <br>
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-Editor-blue)
 
 ---
 
 ## ✨ **Ecole 42 Experience**
-As an Ecole 42 student, I have completed some challenging projects that test not only my coding skills but also my problem-solving and collaboration abilities. I’m currently working on my final core curriculum project, which is pushing my limits and helping me grow as a developer.
+As an Ecole 42 student, I completed the **Common Core** and I’m currently continuing my journey in the **specialization track**.
 
-İf you are in 42 Piscine, you might want to look [here](https://github.com/enverbey/42Piscine).  <br>
-My all common core projects in Ecole 42 is [here](https://github.com/enverbey/42CommonCore). Don't forget to check branches.
+If you're in the 42 Piscine, you might want to look [here](https://github.com/enverbey/42Piscine).  
+My common core projects are all listed [here](https://github.com/enverbey/42CommonCore). Don’t forget to check the branches!
 
 ---
 
 ## 📫 **Get in Touch**
-If you want to chat about coding or share ideas, feel free to reach out! <br>
+If you want to chat about coding, mobile apps, or project ideas?, feel free to reach out! <br>
+
 📧 Email: [enverbey1534@gmail.com](mailto:enverbey1534@gmail.com) <br>
 💬 Discord: enveryilmaz
+
+---
