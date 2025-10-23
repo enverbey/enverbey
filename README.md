@@ -44,7 +44,7 @@ My common core projects are all listed [here](https://github.com/enverbey/42Comm
 If you want to chat about coding, mobile apps, or project ideas?, feel free to reach out! <br>
 
 📧 Email: [enverbey1534@gmail.com](mailto:enverbey1534@gmail.com) <br>
-💬 Discord: enveryilmaz
+💬 Discord: enveryilmaz <br>
 🔗 LinkedIn: linkedin.com/in/enverbey
 
 ---
