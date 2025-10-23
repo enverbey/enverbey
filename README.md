@@ -45,6 +45,6 @@ If you want to chat about coding, mobile apps, or project ideas?, feel free to r
 
 📧 Email: [enverbey1534@gmail.com](mailto:enverbey1534@gmail.com) <br>
 💬 Discord: enveryilmaz <br>
-🔗 LinkedIn: linkedin.com/in/enverbey
+🔗 LinkedIn: [linkedin.com/in/enverbey](https://www.linkedin.com/in/enverbey/)
 
 ---
